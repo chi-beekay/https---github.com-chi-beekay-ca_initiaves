@@ -14,14 +14,14 @@ close.addEventListener('click', () => {
 
 // modal
 
-function openModal() {
-	setTimeout(function () {
-		document.getElementById('myModal').classList.remove('hidden');
-	}, 300);
-}
+// function openModal() {
+// 	setTimeout(function () {
+// 		document.getElementById('myModal').classList.remove('hidden');
+// 	}, 300);
+// }
 
-function closeModal() {
-	setTimeout(function () {
-		document.getElementById('myModal').classList.add('hidden');
-	}, 300);
-}
+// function closeModal() {
+// 	setTimeout(function () {
+// 		document.getElementById('myModal').classList.add('hidden');
+// 	}, 300);
+// }
